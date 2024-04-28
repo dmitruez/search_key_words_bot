@@ -1,0 +1,8 @@
+{
+  "BOT_SETTINGS": {
+    "token": "7013570967:AAEzbS_nzmvwvxosLXiwkgF7PBljqWPQT1s",
+    "groups_search": "GROUPS_SEARCH.txt",
+    "key_words": "KEY_WORDS.txt",
+    "groups_send": "GROUPS_SEND.txt"
+  }
+}
