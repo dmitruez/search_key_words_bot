@@ -3,6 +3,11 @@
     "token": "7013570967:AAEzbS_nzmvwvxosLXiwkgF7PBljqWPQT1s",
     "groups_search": "GROUPS_SEARCH.txt",
     "key_words": "KEY_WORDS.txt",
-    "groups_send": "GROUPS_SEND.txt"
+    "groups_send": "GROUPS_SEND.txt",
+    "minus_words": "MINUS_WORDS.txt"
+  },
+  "SEND_TEXT": {
+    "tt": "<a href='https://t.me/{}'>{}</a> | <a href='https://t.me/{}'>{}</a> | {} ключевых слова:\n\n{}",
+    "tn": "<a href='https://t.me/{}'>{}</a> | <b>{}</b> | {} ключевых слова:\n\n{}"
   }
 }
